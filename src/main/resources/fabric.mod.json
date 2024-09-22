@@ -3,7 +3,7 @@
 	"id": "craftable-gunpower-mod",
 	"version": "${version}",
 	"name": "Craftable Gunpower Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A simple mod that adds recipe for gunpowder",
 	"authors": [
 		"Me!"
 	],
@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MiT",
 	"icon": "assets/craftable-gunpower-mod/icon.png",
 	"environment": "*",
 	"entrypoints": {
